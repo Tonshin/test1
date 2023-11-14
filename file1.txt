@@ -7,3 +7,4 @@ WHERE  (name ilike '%чай%'
 123
 Add Line
 add line
+ORDER BY
