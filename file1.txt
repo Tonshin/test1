@@ -4,4 +4,3 @@ WHERE  (name ilike '%чай%'
     or name ilike '%кофе%')
    and name not ilike '%иван-чай%'
    and name not ilike '%чайный гриб%'
-end
